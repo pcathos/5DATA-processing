@@ -1,0 +1,101 @@
+Id,Age,Nom,Prenom,Campus,Internship,Hometown,Attendance,Mobility,DropOut,Graduated_time,Company,Entry_time
+261628,23,PAULINE,Guillaume,Nice,Infra,Quimper,15,,,2020-04-01,,
+173128,22,MONA,Mathieu,Paris,Management,Mérignac,1,,,2020-04-01,La Poste,2020-12-13
+204901,20,MARIN,Brunet,Marseille,Dev,Toulouse,17,University of Bordeaux,,2020-04-01,,
+122198,19,MAÏLYS,Noel,Lyon,Infra,Quimper,20,,,2020-04-01,,
+102814,18,NATHANAËL,Dupuis,Lyon,Cloud,La Seyne-sur-Mer,5,,,2020-04-01,Airbus,2020-09-22
+204110,23,EWEN,Gerard,Marseille,Dev,Niort,53,,,2020-04-01,,
+229484,22,ADAM,Fleury,Marseille,Management,Villeneuve-d'Ascq,41,,,2020-04-01,Lancome,2020-08-05
+197289,22,MÉLIO,Lemoine,Marseille,DEVOPS,Poitiers,42,,,2020-04-01,Lancome,2020-09-15
+106598,20,JOCELIN,Bonnet,Lyon,Cloud,Béziers,55,,Economic,,,
+229774,20,MIA,Arnaud,Lyon,Management,La Seyne-sur-Mer,61,,,2020-04-01,Celio,2020-07-14
+100330,24,IZÏA,Thomas,Paris,Infra,Le Havre,2,,Negative,,Rexel,2020-12-28
+165302,21,LORYS,Arnaud,Lyon,Management,Aubervilliers,45,,,2020-04-01,BNP,2020-04-02
+215529,18,CHARLIE,Philippe,Paris,DEVOPS,La Seyne-sur-Mer,21,,,2020-04-01,Celio,2020-11-22
+206876,23,ZORA,Vidal,Toulouse,Management,Metz,10,,,2020-04-01,Lancome,2020-10-08
+299155,21,VINCENZO,Roy,Lyon,Dev,Noisy-le-Grand,37,University of Bordeaux,,2020-04-01,,
+108189,24,ALEXIS,Rousseau,Marseille,DEVOPS,Courbevoie,3,,,2020-04-01,Free,2020-07-21
+280489,23,MAÏLYS,Bourgeois,Marseille,Network,Vitry-sur-Seine,6,,,2020-04-01,Bouygues,2020-12-21
+171953,19,SOHAN,Mercier,Nice,Management,Rennes,60,UPEC,Fired,,Carrefour,2020-02-05
+296312,18,VINCENZO,Louis,Marseille,DEVOPS,Le Tampon,30,,,2020-04-01,,
+209903,19,HAYLIE,Arnaud,Lyon,Cloud,Mérignac,28,ESCE,,2020-04-01,,
+207898,22,GASPARD,Caron,Paris,Management,Épinay-sur-Seine,38,,,2020-04-01,Lancome,2020-04-18
+148937,21,SACHA,Meunier,Lyon,DEVOPS,Montreuil,29,,,2020-04-01,,
+216111,19,SIRIUS,Leclerc,Toulouse,Management,Valence,30,,,2020-04-01,Google,2020-08-08
+148200,24,JOCELIN,Barbier,Lyon,Infra,Dijon,59,,,2020-04-01,,
+230536,19,TILIO,Olivier,Toulouse,Cloud,Béziers,47,EURECOM,,2020-04-01,Ubisoft,2020-05-06
+250406,18,MIA,Royer,Lyon,DEVOPS,Saint-Pierre,43,,,2020-04-01,Axa,2020-05-06
+259172,18,ÉLISE,Clement,Lyon,DEVOPS,Saint-Nazaire,3,EIT Digital Master School,,2020-04-01,Celio,2020-08-19
+123859,20,ALEXIS,Sanchez,Toulouse,Cloud,Saint-Quentin,25,EIT Digital Master School,,2020-04-01,,
+187699,24,MARIN,Philippe,Paris,Management,Lorient,20,,,2020-04-01,,
+181461,20,KESSY,Philippe,Marseille,Dev,Calais,63,University of Bordeaux,,2020-04-01,BNP,2020-04-07
+126190,19,MARIN,Martinez,Marseille,Network,Amiens,61,University of Bordeaux,,2020-04-01,Hermes,2020-07-20
+268810,22,NINHO,Bonnet,Toulouse,Management,Toulon,22,,,2020-04-01,,
+293820,22,MATHIAS,Adam,Lyon,DEVOPS,Aulnay-sous-Bois,35,,Fired,,,
+208615,23,ÉMILIEN,Guillot,Paris,DEVOPS,Saint-Étienne,44,UPEC,Economic,,Carrefour,2020-04-27
+243188,23,NINA,Masson,Nice,Cloud,Villejuif,28,UPEC,,2020-04-01,Ubisoft,2020-02-29
+162943,21,JÉRÉMY,Jacquet,Paris,DEVOPS,Antibes,16,,,2020-04-01,Rexel,2020-03-09
+201252,20,ILAN,Guillaume,Nice,Infra,Vénissieux,62,,,2020-04-01,Hermes,2020-06-20
+231690,22,SOHAN,Boyer,Lyon,Network,Cergy,29,,,2020-04-01,Axa,2020-07-18
+207024,20,MADY,Dupuy,Lyon,Infra,Épinay-sur-Seine,39,,,2020-04-01,Carrefour,2020-09-19
+153867,18,JOCELIN,Bernard,Lyon,Dev,Tours,20,,,2020-04-01,Hermes,2020-08-21
+249368,19,ALEXIS,Guillot,Paris,Management,Niort,4,,,2020-04-01,La Poste,2020-02-21
+168406,18,ADONIS,Sanchez,Toulouse,Cloud,Argenteuil,16,University of Bordeaux,Economic,,,
+225734,19,LOAN,Klein,Nice,Network,Metz,30,,,2020-04-01,Hermes,2020-02-16
+183072,18,SACHA,Payet,Lyon,DEVOPS,Perpignan,1,,,2020-04-01,Airbus,2020-11-01
+166524,22,ÉLISE,Blanchard,Paris,DEVOPS,Montreuil,16,EIT Digital Master School,,2020-04-01,,
+245704,23,ROMAN,Arnaud,Marseille,DEVOPS,Issy-les-Moulineaux,16,,,2020-04-01,Free,2020-09-20
+211992,19,TAIS,Boucher,Toulouse,Network,Les Abymes,9,,,2020-04-01,Hermes,2020-10-25
+120141,23,MADY,Chevalier,Paris,Cloud,Quimper,38,,,2020-04-01,,
+252368,22,PAUL,Leclerc,Marseille,Infra,Toulon,26,,,2020-04-01,Celio,2020-11-20
+261628,19,CHARLIE,Sanchez,Marseille,Dev,Bourges,49,University of Bordeaux,,2020-04-01,,
+245657,20,ADONIS,Gautier,Toulouse,Network,Colmar,20,,,2020-04-01,La Poste,2020-03-24
+207006,19,TILIO,Pierre,Lyon,Cloud,Villeneuve-d'Ascq,1,,,2020-04-01,,
+147094,18,CORENTIN,Lecomte,Nice,DEVOPS,Aix-en-Provence,55,,,2020-04-01,Bouygues,2020-07-15
+248358,19,SIRIUS,Dumas,Toulouse,Infra,Mérignac,62,,Negative,,Airbus,2020-03-07
+263127,18,CHLOÉ,Picard,Marseille,Cloud,Les Abymes,29,,,2020-04-01,Celio,2020-01-20
+206185,23,ILAN,Bonnet,Marseille,Infra,Paris,4,EURECOM,Negative,,La Poste,2020-09-08
+251062,18,LOAN,Martin,Paris,DEVOPS,Nanterre,61,,,2020-04-01,,
+147216,23,ÉLÉANORE,Dumont,Lyon,DEVOPS,Beauvais,55,,,2020-04-01,,
+170550,20,CHLOÉ,Lecomte,Paris,Dev,Levallois-Perret,15,,,2020-04-01,Airbus,2020-09-03
+215118,23,SOHAN,Picard,Lyon,Management,Antony,61,EIT Digital Master School,,2020-04-01,Carrefour,2020-06-18
+116201,24,EWEN,Duval,Marseille,Cloud,Bordeaux,61,,,2020-04-01,Carrefour,2020-02-25
+252641,21,NOÉLYNE,Carpentier,Nice,Cloud,Tourcoing,51,,,2020-04-01,Celio,2020-01-31
+217725,21,ELÉA,Fleury,Paris,Management,Montauban,56,,,2020-04-01,BNP,2020-07-28
+262607,20,KESSY,Robert,Lyon,Management,Aix-en-Provence,6,,,2020-04-01,,
+204597,23,THÉODORE,Arnaud,Toulouse,Infra,Épinay-sur-Seine,14,,,2020-04-01,,
+109391,24,ALEXIS,Arnaud,Paris,Dev,Besançon,46,,,2020-04-01,Ubisoft,2020-02-01
+260958,22,VINCENZO,Arnaud,Marseille,Infra,Courbevoie,12,,,2020-04-01,,
+169118,23,MARIN,Barbier,Lyon,Infra,Tourcoing,5,,,2020-04-01,,
+184749,22,KESSY,Lemoine,Lyon,Dev,Pau,58,University of Bordeaux,,2020-04-01,Hermes,2020-09-21
+105937,24,SANDRO,Mathieu,Lyon,Dev,Ajaccio,20,EIT Digital Master School,,2020-04-01,,
+249096,21,ELYNE,Vidal,Marseille,Dev,Saint-Maur-des-Fossés,26,EURECOM,,2020-04-01,Carrefour,2020-12-10
+194912,24,KAYLEEN,Roy,Nice,Management,Drancy,32,,,2020-04-01,Ubisoft,2020-11-13
+151147,24,ROMAN,Dupuy,Lyon,Infra,Champigny-sur-Marne,8,,,2020-04-01,Google,2020-05-27
+191919,21,ELYNE,Muller,Lyon,Network,Niort,8,,,2020-04-01,,
+139876,21,KALYANA,Blanc,Toulouse,Dev,Saint-Maur-des-Fossés,16,,,2020-04-01,,
+158453,23,MÉLIO,Fleury,Nice,Management,Antony,60,EIT Digital Master School,,2020-04-01,,
+114650,22,THÉODORE,Perrin,Toulouse,Infra,Montauban,17,ESCE,Economic,,,
+208334,24,ANASTASIA,Roche,Paris,DEVOPS,Neuilly-sur-Seine,58,ESCE,,2020-04-01,Celio,2020-05-07
+138990,20,ELYNE,Sanchez,Marseille,DEVOPS,Rueil-Malmaison,32,,,2020-04-01,,
+277033,18,JULINE,Thomas,Lyon,Network,Rueil-Malmaison,51,,Fired,,Bouygues,2020-08-19
+170760,22,NINHO,Aubert,Lyon,Management,Lyon,48,UPEC,,2020-04-01,,
+282888,21,ROMAN,Guillot,Nice,Cloud,Dunkirk,7,University of Bordeaux,,2020-04-01,Lancome,2020-11-02
+288217,23,SACHA,Renaud,Paris,Management,Saint-André,5,,Economic,,Carrefour,2020-11-27
+126089,20,FLAVIE,Thomas,Toulouse,Infra,Sarcelles,5,,,2020-04-01,La Poste,2020-07-04
+274172,21,CORENTIN,Vincent,Toulouse,Cloud,Roubaix,20,,,2020-04-01,,
+286439,21,SACHA,Robert,Nice,Dev,Argenteuil,28,UPEC,Negative,,Free,2020-08-22
+129200,19,ZACHARIE,Lucas,Paris,Management,Clichy,64,,,2020-04-01,,
+160250,22,ALYSSIA,Guerin,Lyon,Infra,Villejuif,27,EURECOM,,2020-04-01,Google,2020-08-24
+185847,22,MYLANN,Payet,Marseille,Infra,Saint-Maur-des-Fossés,42,,,2020-04-01,Hermes,2020-05-12
+237697,20,JOY,Adam,Paris,Management,Cergy,2,,,2020-04-01,La Poste,2020-10-19
+192548,23,APOLLINE,Bonnet,Toulouse,DEVOPS,Poitiers,14,EIT Digital Master School,,2020-04-01,,
+151924,18,VICTORIA,Robin,Lyon,Network,Neuilly-sur-Seine,27,UPEC,,2020-04-01,,
+228818,22,LÉANA,Roy,Marseille,Cloud,Saint-Étienne,15,,,2020-04-01,Lancome,2020-10-10
+229056,19,MYA,Pierre,Lyon,Management,Montauban,33,,,2020-04-01,BNP,2020-05-15
+107519,23,MAÏLYS,Payet,Nice,Cloud,Rennes,22,,,2020-04-01,,
+108406,21,LÉON,Dumas,Nice,Cloud,Valence,29,,Economic,,Airbus,2020-10-29
+191657,21,ANASTASIA,Renard,Toulouse,Network,Antibes,20,UPEC,,2020-04-01,,
+111043,18,MARIN,Adam,Lyon,Infra,Nice,61,,,2020-04-01,,
+272075,20,ÉLÉANORE,Leroux,Lyon,Cloud,Saint-André,12,,,2020-04-01,Google,2020-03-19
+235431,18,ELÉA,Fabre,Marseille,Network,Issy-les-Moulineaux,44,,,2020-04-01,BNP,2020-07-21
