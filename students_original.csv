@@ -23,7 +23,7 @@ Id,Age,Nom,Prenom,Campus,Internship,Hometown,Attendance,Mobility,DropOut,Graduat
 148937,21,SACHA,Meunier,Lyon,DEVOPS,Montreuil,29,,,2020-04-01,,
 216111,19,SIRIUS,Leclerc,Toulouse,Management,Valence,30,,,2020-04-01,Google,2020-08-08
 148200,24,JOCELIN,Barbier,Lyon,Infra,Dijon,59,,,2020-04-01,,
-230536,19,TILIO,Olivier,Toulouse,Cloud,Béziers,47,EURECOM,,2020-04-01,Ubisoft,2020-05-06
+230536,19,TILIO,Olivier,Toulouse,Cloud,Beziers,47,EURECOM,,2020-04-01,Ubisoft,2020-05-06
 250406,18,MIA,Royer,Lyon,DEVOPS,Saint-Pierre,43,,,2020-04-01,Axa,2020-05-06
 259172,18,ELISE,Clement,Lyon,DEVOPS,Saint-Nazaire,3,EIT Digital Master School,,2020-04-01,Celio,2020-08-19
 123859,20,ALEXIS,Sanchez,Toulouse,Cloud,Saint-Quentin,25,EIT Digital Master School,,2020-04-01,,
@@ -64,7 +64,7 @@ Id,Age,Nom,Prenom,Campus,Internship,Hometown,Attendance,Mobility,DropOut,Graduat
 217725,21,ELEA,Fleury,Paris,Management,Montauban,56,,,2020-04-01,BNP,2020-07-28
 262607,20,KESSY,Robert,Lyon,Management,Aix-en-Provence,6,,,2020-04-01,,
 204597,23,THEODORE,Arnaud,Toulouse,Infra,Epinay-sur-Seine,14,,,2020-04-01,,
-109391,24,ALEXIS,Arnaud,Paris,Dev,Besançon,46,,,2020-04-01,Ubisoft,2020-02-01
+109391,24,ALEXIS,Arnaud,Paris,Dev,Besancon,46,,,2020-04-01,Ubisoft,2020-02-01
 260958,22,VINCENZO,Arnaud,Marseille,Infra,Courbevoie,12,,,2020-04-01,,
 169118,23,MARIN,Barbier,Lyon,Infra,Tourcoing,5,,,2020-04-01,,
 184749,22,KESSY,Lemoine,Lyon,Dev,Pau,58,University of Bordeaux,,2020-04-01,Hermes,2020-09-21
